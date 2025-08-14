@@ -1,5 +1,8 @@
 # GPT-5-PPO-Snake
-This repository contains an implementation of Proximal Policy Optimization (PPO) for training an AI agent to play a 10x10 Snake game. The code for the PPO and MCTS was mostly written by GPT-5, hence the name of the repository. This repository is an **experiment** in what modern LLMs can write autonomously. DO NOT use this code for production.
+This repository contains an implementation of Proximal Policy Optimization (PPO) for training an AI agent to play a 10x10 Snake game. The code for the PPO and MCTS was mostly written by GPT-5, hence the name of the repository. This repository is an **experiment** in what modern LLMs can write autonomously. DO NOT use this code for production. Uses MLX, so Mac only.
+
+
+[](https://video.twimg.com/amplify_video/1955658238487080961/vid/avc1/704x848/t9mwlWZ9E4PY57ba.mp4)
 
 ## Requirements
 To install the required packages, run:
