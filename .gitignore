@@ -1,0 +1,7 @@
+checkpoints/
+videos/
+__pycache__/
+*.txt
+*.png
+*.safetensors
+!good_policy.safetensors
